@@ -138,14 +138,14 @@ https://www.w3.org/publishing/epubcheck/
 
 ![w:200 h:200](./assets/ace-logo.svg)
 
-Outil d’aide à l’évalutation d’accessibilité
+Outil d’aide à l’évaluation d’accessibilité
 
 <!-- _footer: "Ace est un projet du DAISY Consortium – logiciel libre sous license MIT" -->
 
 ---
 
 * basé sur Axe (Deque Systems)
-* test automatisés (HTML et EPUB)
+* tests automatisés (HTML et EPUB)
 * extraction d'information
 * liens vers la base de connaissance DAISY
 
